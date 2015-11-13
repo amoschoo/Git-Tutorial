@@ -12,6 +12,7 @@ import division as dv
 
 
 print 'this is calculator'
+print 'Hello'
 class Calculator:
     
     def  __init__(self):
